@@ -1,0 +1,5 @@
+F:\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB2\Definitions.Galaga_USFX_LAB2.h
+F:\Galaga_USFX_LAB2\Source\Galaga_USFX_LAB2\NaveEnemigaNodriza.h
+F:\Galaga_USFX_LAB2\Source\Galaga_USFX_LAB2\NaveEnemiga.h
+F:\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB2\NaveEnemiga.generated.h
+F:\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB2\NaveEnemigaNodriza.generated.h
